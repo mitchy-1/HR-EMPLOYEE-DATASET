@@ -7,14 +7,6 @@ Objectives:
 2.	To highlight patterns in performance ratings and compensation across different departments.
 3.	To provide data-driven insights that can support workforce planning and retention strategies.
 
-Project Questions
-1. Find out the single female employees in sales department who earn more than 15k monthly?
-2. ⁠Find out the married female employees in sales department who travel frequently with less than 10k monthly income?
-3. ⁠How many employees have less than 3 in performance rating and less than 1 in job satisfaction and are paid 10k monthly?
-4. ⁠Find out the employees in research and development who have a daily rate greater than 1200 and earn more than than 10k?
-5. ⁠How many employees above age 50 travel frequently and earn less than 5k monthly in research and development?
-
-
 Data Source:
 The dataset used for this analysis is the HR Analytics Employee Attrition Dataset, a publicly available dataset designed for research and learning purposes. It contains employee demographic details (such as age, gender, marital status, and education), job-related information (department, role, performance rating, job satisfaction, travel frequency), and compensation details (monthly income, daily rate, hourly rate). 
 Methodology:
